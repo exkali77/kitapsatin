@@ -1,0 +1,20 @@
+C:\Users\sns_k\source\repos\Kitap_indirimi\Kitap_indirimi\bin\Debug\Kitap_indirimi.exe.config
+C:\Users\sns_k\source\repos\Kitap_indirimi\Kitap_indirimi\bin\Debug\Kitap_indirimi.exe
+C:\Users\sns_k\source\repos\Kitap_indirimi\Kitap_indirimi\bin\Debug\Kitap_indirimi.pdb
+C:\Users\sns_k\source\repos\Kitap_indirimi\Kitap_indirimi\obj\Debug\Kitap_indirimi.csproj.AssemblyReference.cache
+C:\Users\sns_k\source\repos\Kitap_indirimi\Kitap_indirimi\obj\Debug\Kitap_indirimi.Form1.resources
+C:\Users\sns_k\source\repos\Kitap_indirimi\Kitap_indirimi\obj\Debug\Kitap_indirimi.Properties.Resources.resources
+C:\Users\sns_k\source\repos\Kitap_indirimi\Kitap_indirimi\obj\Debug\Kitap_indirimi.csproj.GenerateResource.cache
+C:\Users\sns_k\source\repos\Kitap_indirimi\Kitap_indirimi\obj\Debug\Kitap_indirimi.csproj.CoreCompileInputs.cache
+C:\Users\sns_k\source\repos\Kitap_indirimi\Kitap_indirimi\obj\Debug\Kitap_indirimi.exe
+C:\Users\sns_k\source\repos\Kitap_indirimi\Kitap_indirimi\obj\Debug\Kitap_indirimi.pdb
+C:\Users\sns_k\Desktop\Yeni klasör (2)\Kitap_indirimi\Kitap_indirimi\bin\Debug\Kitap_indirimi.exe.config
+C:\Users\sns_k\Desktop\Yeni klasör (2)\Kitap_indirimi\Kitap_indirimi\bin\Debug\Kitap_indirimi.exe
+C:\Users\sns_k\Desktop\Yeni klasör (2)\Kitap_indirimi\Kitap_indirimi\bin\Debug\Kitap_indirimi.pdb
+C:\Users\sns_k\Desktop\Yeni klasör (2)\Kitap_indirimi\Kitap_indirimi\obj\Debug\Kitap_indirimi.csproj.AssemblyReference.cache
+C:\Users\sns_k\Desktop\Yeni klasör (2)\Kitap_indirimi\Kitap_indirimi\obj\Debug\Kitap_indirimi.Form1.resources
+C:\Users\sns_k\Desktop\Yeni klasör (2)\Kitap_indirimi\Kitap_indirimi\obj\Debug\Kitap_indirimi.Properties.Resources.resources
+C:\Users\sns_k\Desktop\Yeni klasör (2)\Kitap_indirimi\Kitap_indirimi\obj\Debug\Kitap_indirimi.csproj.GenerateResource.cache
+C:\Users\sns_k\Desktop\Yeni klasör (2)\Kitap_indirimi\Kitap_indirimi\obj\Debug\Kitap_indirimi.csproj.CoreCompileInputs.cache
+C:\Users\sns_k\Desktop\Yeni klasör (2)\Kitap_indirimi\Kitap_indirimi\obj\Debug\Kitap_indirimi.exe
+C:\Users\sns_k\Desktop\Yeni klasör (2)\Kitap_indirimi\Kitap_indirimi\obj\Debug\Kitap_indirimi.pdb
